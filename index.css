@@ -84,6 +84,10 @@ body, html {
   color: lightgray;
 }
 
+#navbar li #resume{
+  color: rgb(0, 173, 181);
+}
+
 #top h1, h5, #bottom {
   color: white;
   font-family: 'Open Sans', sans-serif;
